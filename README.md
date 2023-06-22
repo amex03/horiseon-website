@@ -1,1 +1,1 @@
-# horizeon-website
+# horiseon-website
